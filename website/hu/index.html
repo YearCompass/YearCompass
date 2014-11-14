@@ -1,24 +1,23 @@
-
 <!DOCTYPE html>
 <html lang="hu">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Rendezd az előtted álló évet a Láthatatlan Egyetem évrendező munkafüzetével.">
-    <meta name="author" content="Láthatatlan Egyetem">
+    <meta name="description" content="Rendezd az előtted álló évet a Láthatatlan Kiadó Évrendező Füzetével.">
+    <meta name="author" content="Láthatatlan Kiadó">
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- openGraph / fb -->
-    <meta property="og:image" content="http://2014.lathatatlanegyetem.hu/img/zen_share.png"/>
-    <meta property="og:title" content="Évrendező munkafüzet 2014"/>
-    <meta property="og:url" content="http://2014.lathatatlanegyetem.hu"/>
+    <meta property="og:image" content="http://2015.lathatatlankiado.hu/img/zen_share.png"/>
+    <meta property="og:title" content="Évrendező Füzet 2015"/>
+    <meta property="og:url" content="http://2015.lathatatlankiado.hu"/>
     <meta property="og:type" content="book"/>
-    <meta property="og:description" content="Az évrendező munkafüzet abban segít Téged, hogy lezárhasd a mögötted álló, és nyugodtan megtervezhesd a következő évedet." />
-    <meta property="og:site_name" content="Láthatatlan Egyetem | Évrendező munkafüzet 2014"/>
-    <meta property="fb:app_id" content="229235697200737"/>
+    <meta property="og:description" content="Az Évrendező Füzet abban segít Téged, hogy lezárhasd a mögötted álló, és nyugodtan megtervezhesd a következő évedet." />
+    <meta property="og:site_name" content="Láthatatlan Kiadó | Évrendező Füzet 2015"/>
+    <meta property="fb:app_id" content="821431684586537"/>
 
-    <title>Előtted az év | 2014</title>
+    <title>Előtted az év | 2015</title>
 
     <!-- CSS and FontAwesome-->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,17 +34,27 @@
   <body>
     <!-- facebook init -->
     <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=229235697200737";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '821431684586537',
+          xfbml      : true,
+          version    : 'v2.2'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
     <!-- /facebook init-->
 
     <!-- language select -->
-      <a href="http://2014-english.lathatatlanegyetem.hu" title="English version">
+      <a href="http://2015-english.lathatatlankiado.hu" title="English version">
         <img id="flag" class="opaq" src="img/english.png" width="25px" alt="English version" />
       </a>
     <!-- /language select -->
@@ -54,11 +63,11 @@
     <div class="container">
       <div class="row">
         <div class="jumbotron col-md-10 col-md-offset-1">
-          <h1>Évrendező munkafüzet 
+          <h1>Évrendező Füzet 
             <br>
             <small></small>
           </h1>
-          <p class="lead">Zárd le 2013-at, tervezd meg 2014-et.</p>
+          <p class="lead">Zárd le 2014-et, tervezd meg 2015-öt.</p>
         </div> <!-- /jumbotron-->
       </div> <!-- /row-->
       <!-- /hero unit-->
@@ -70,9 +79,9 @@
           <!-- main download table -->
           <table class="table table-bordered table-hover table-responsive">
             <tbody>
-              <tr id="downloadTable" class="clickableRow" href="http://2014.lathatatlanegyetem.hu/files/2014_evrendezo_munkafuzet.pdf">
+              <tr id="downloadTable" class="clickableRow" href="http://2015.lathatatlankiado.hu/files/2015_evrendezo_fuzet.pdf">
                 <td style="vertical-align:middle" width="20%">
-                  <img class="img-thumbnail" src="img/borito.png" alt="Évrendező munkafüzet">
+                  <img class="img-thumbnail" src="img/borito.png" alt="Évrendező Füzet">
                 </td>
                 <td>
                   <h3>Helyes kis füzetke. 
@@ -81,12 +90,12 @@
                   <p>Ha nem tud a nyomtatód automatikusan mindkét oldalra nyomtatni, először a páratlan oldalakat nyomtasd, fordítsd meg a lapokat, és a párosokkal fejezd be.</p>
                 </td>
                 <td style="vertical-align:middle" width="30%">
-                  <a href="files/2014_evrendezo_munkafuzet.pdf" class="btn btn-block btn-lg btn-success"><i class="fa fa-download"> </i> Letöltés</a>
+                  <a href="files/2015_evrendezo_fuzet.pdf" class="btn btn-block btn-lg btn-success"><i class="fa fa-download"> </i> Letöltés</a>
                 </td>
               </tr>
-              <tr class="clickableRow" href="http://2014.lathatatlanegyetem.hu/files/2014_evrendezo_munkafuzet_A4.pdf">
+              <tr class="clickableRow" href="http://2015.lathatatlanegyetem.hu/files/2015_evrendezo_fuzet_A4.pdf">
                 <td style="vertical-align:middle">
-                  <img class="img-thumbnail" src="img/borito_A4.png" alt="Évrendező munkafüzet">
+                  <img class="img-thumbnail" src="img/borito_A4.png" alt="Évrendező Füzet">
                 </td>
                 <td>
                   <h3>Normál formátum. 
@@ -95,7 +104,7 @@
                   <p>Akkor válaszd ezt, ha a Te nyomtatód sokkal egyszerűbben is tud füzet-formátumot nyomtatni. Vagy ha egyszerűen nem akarsz bajlódni a hajtogatással.</p>
                 </td> 
                 <td style="vertical-align:middle" width="30%">
-                  <a href="files/2014_evrendezo_munkafuzet_A4.pdf" class="btn btn-block btn-lg btn-success"><i class="fa fa-download"> </i> Letöltés</a>
+                  <a href="files/2015_evrendezo_fuzet_A4.pdf" class="btn btn-block btn-lg btn-success"><i class="fa fa-download"> </i> Letöltés</a>
                 </td>
               </tr> 
             </tbody>
@@ -105,6 +114,7 @@
           <!-- facebook like box -->
           <div class="row">
             <div class="col-md-12">
+              <!-- FOR SAFETY REASONS DID NOT UPDATE THIS -->
             <div class="fb-like" data-href="http://2014.lathatatlanegyetem.hu" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
             </div> <!-- /fb-like -->
             </div> <!-- /col-md-12 -->
@@ -156,18 +166,19 @@
         <div class="col-xs-10 col-xs-offset-1 well">
           <h3>Helyes kis füzetke. <small>(A/4-es lapra nyomtatható)</small></h3>
           <p>Ha nem tud a nyomtatód automatikusan mindkét oldalra nyomtatni, először a páratlan oldalakat nyomtasd, fordítsd meg a lapokat, és a párosokkal fejezd be.</p>
-          <a href="files/2014_evrendezo_munkafuzet.pdf" class="btn btn-block btn-success"><i class="fa fa-download"> </i> Letöltés</a>
+          <a href="files/2015_evrendezo_fuzet.pdf" class="btn btn-block btn-success"><i class="fa fa-download"> </i> Letöltés</a>
         </div> <!-- /col-xs-10 --> 
       </div> <!-- /row -->
       <div class="row visible-xs">
         <div class="col-xs-10 col-xs-offset-1 well">
           <h3>Normál formátum. <small>(A/4-es lapra nyomtatható)</small></h3>
           <p>Akkor válaszd ezt, ha a Te nyomtatód sokkal egyszerűbben is tud füzet-formátumot nyomtatni. Vagy ha egyszerűen nem akarsz bajlódni a hajtogatással.</p>
-          <a href="files/2014_evrendezo_munkafuzet_A4.pdf" class="btn btn-block btn-success"><i class="fa fa-download"> </i> Letöltés</a>
+          <a href="files/2015_evrendezo_fuzet_A4.pdf" class="btn btn-block btn-success"><i class="fa fa-download"> </i> Letöltés</a>
         </div> <!-- /col-xs-10 -->
       </div> <!-- /row -->
       <div class="row visible-xs">
         <div class="col-xs-10 col-xs-offset-1 text-center">
+          <!-- FOR SAFETY REASONS DID NOT UPDATE THIS -->
           <div class="fb-like" data-href="http://2014.lathatatlanegyetem.hu" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true">
           </div> <!-- /col-xs-10 -->
         </div>
@@ -333,8 +344,9 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-46399157-1', 'lathatatlanegyetem.hu');
+      ga('create', 'UA-56778430-2', 'auto');
       ga('send', 'pageview');
+
     </script>
     <script>
       jQuery(document).ready(function($) {
