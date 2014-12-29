@@ -9,3 +9,9 @@ EN:
 Year planning booklet 2015
 #yearcompass #theyearahead #theyearbehind #yearplanning
 YearCompass.com
+
+CZ:
+2015_planovac_roku_A5_booklet
+Plánovač roku 2015
+#kompasroku #yearcompass #rokmaszasebou #rokmaspredsebou #theyearahead #planovaniroku #yearplanning
+YearCompass.com
