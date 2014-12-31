@@ -1,23 +1,30 @@
-HU:
+HU_HU:
 2015_evrendezo_fuzet_A5_booklet
 Évrendező füzet 2015
 #eviranytu #yearcompass #mogottedazev #elottedazev #theyearahead #evrendezes #yearplanning
 YearCompass.com
 
-EN:
+EN_US:
 2015_year_planning_booklet_A5_booklet
 Year planning booklet 2015
 #yearcompass #theyearahead #theyearbehind #yearplanning
 YearCompass.com
 
-CZ:
+CZ_CZ:
 2015_planovac_roku_A5_booklet
 Plánovač roku 2015
 #kompasroku #yearcompass #rokmaszasebou #rokmaspredsebou #theyearahead #planovaniroku #yearplanning
 YearCompass.com
 
-HR:
+HR_HR:
 2015_knjizica_za_planiranje_godine_A5_booklet
 Knjižica za planiranje godine 2015
-#yearcompass #yearbehind #yearplanning # yearahead
+#yearcompass #yearbehind #yearplanning #yearahead
 YearCompass.com
+
+PT_BR:
+2015_livreto_para_planejamento_do_ano_A5_booklet
+Livreto para planejamento do ano 2015
+#yearcompass #yearbehind #yearplanning #yearahead
+YearCompass.com
+
