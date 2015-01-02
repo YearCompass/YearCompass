@@ -39,3 +39,9 @@ ES_ES:
 Cuaderno para planear el año 2015
 #yearcompass #yearbehind #yearplanning #yearahead
 YearCompass.com
+
+SK_SK:
+2015_sk_planovac_roku_A5_booklet
+Plánovač roku 2015
+#kompassroku #yearcompass #rokmaszasebou #rokmaspredtebou #theyearahead #planovanieroku #yearplanning
+YearCompass.com
