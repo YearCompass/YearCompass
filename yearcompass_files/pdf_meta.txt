@@ -11,7 +11,7 @@ Year planning booklet 2015
 YearCompass.com
 
 CZ_CZ:
-2015_planovac_roku_A5_booklet
+2015_cz_planovac_roku_A5_booklet
 Plánovač roku 2015
 #kompasroku #yearcompass #rokmaszasebou #rokmaspredsebou #theyearahead #planovaniroku #yearplanning
 YearCompass.com
@@ -52,3 +52,8 @@ Werkboek Jaarplanning 2015
 #yearcompass #yearbehind #yearplanning #yearahead
 YearCompass.com
 
+IT_IT:
+2015_it_booklet_programmazione_annuale_A5_booklet
+Booklet programmazione annuale 2015
+#yearcompass #yearbehind #yearplanning #yearahead
+YearCompass.com
