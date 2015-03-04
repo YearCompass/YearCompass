@@ -57,3 +57,11 @@ IT_IT:
 Booklet programmazione annuale 2015
 #yearcompass #yearbehind #yearplanning #yearahead
 YearCompass.com
+
+DE_DE:
+2015_de_jahresplaner_arbeitsheft_A5_booklet
+Jahresplaner Arbeitsheft 2015
+#yearcompass #yearbehind #JahresKompass #VergangenesJahr #yearplanning #yearahead #Jahresplanung #KommendesJahr
+YearCompass.com
+
+
