@@ -171,7 +171,7 @@ text	{findWhat: "T0170"}	{changeTo: "Készítették az Éviránytű és a Látha
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/[your ISO 3166-2 country code]"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0172"}	{changeTo: "Ha szeretnél valakinek Évrendező füzetet ajándékozni (és ezzel támogatni az ügyünket), látogass el erre a linkre:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0174"}	{changeTo: "We are native Hungarians and this workbook is a translation of our original work. Should you discover any typos, mistakes in grammar or nonexistent expressions be kind and drop us a line via the above website."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: " "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "A tartalomra a Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi licence érvényes."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0176"}	{changeTo: "Megjegyezzük helyetted"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0177"}	{changeTo: "A válaszaid nem vesznek kárba, megőrizzük neked. Ehhez viszont emlékeznünk kell Rád is, ezért kérjük jelentkezz be."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -181,7 +181,7 @@ text	{findWhat: "T0180"}	{changeTo: "Kérjük értékeld a megválaszolt kérdé
 text	{findWhat: "T0181"}	{changeTo: "Bármi, amit még szeretnél nekünk üzenni"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0182"}	{changeTo: "Válassz nyelvet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0183"}	{changeTo: "[YearCompass in your own language]"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0184"}	{changeTo: "Translators:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0184"}	{changeTo: " "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0185"}	{changeTo: "[Translators credit]"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "[Language name]"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0187"}	{changeTo: "bakancslista"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
