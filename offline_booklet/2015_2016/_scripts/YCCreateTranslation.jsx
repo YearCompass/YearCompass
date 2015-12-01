@@ -177,7 +177,7 @@ function findAndReplaceTokens(currentDocument, transFilePath){
  * ----------------------------------------------------------------------------
  */
 function replaceText(currentDocument, findPreferences, replacePreferences, options){
-    //Reset the find/change preferences before each search.
+    //Reset the find/replace preferences before each search.
     app.changeTextPreferences = NothingEnum.nothing;
     app.findTextPreferences = NothingEnum.nothing;
     var string = "app.findTextPreferences.properties = "+ findPreferences + ";";
@@ -185,7 +185,7 @@ function replaceText(currentDocument, findPreferences, replacePreferences, optio
     string += "app.findChangeTextOptions.properties = " + options + ";";
     app.doScript(string, ScriptLanguage.javascript);
     items = currentDocument.changeText();
-    //Reset the find/change preferences after each search.
+    //Reset the find/replace preferences after each search.
     app.changeTextPreferences = NothingEnum.nothing;
     app.findTextPreferences = NothingEnum.nothing;
 }
