@@ -18,7 +18,12 @@
  *  description is a description of the find/change operation
  */
 
-/* Execute main finction */
+/* Extend File prototype to return a file name from the path */
+File.prototype.fileName = function(){
+  return this.name.replace(/.[^.]+$/,'');
+}
+
+/* Execute main function */
 main();
 
 /**
@@ -32,12 +37,13 @@ function main(){
     //Make certain that user interaction (display of dialogs, etc.) is turned on.
     app.scriptPreferences.userInteractionLevel = UserInteractionLevels.interactWithAll;
     
-    // Create the new copy from the file
-    makeCopy();
-
     // Execute script only if there is an open document
     if(app.documents.length > 0){
-        myFindChangeByList(app.documents.item(0));
+        // Get the translation file and the language code
+        fileInfo = getTranslationFile();
+        // Create the new copy from the file
+        makeCopy(fileInfo.langCode);
+        //myFindChangeByList(app.documents.item(0));
     }
     else{
         alert("No documents are open. Please open a document and try again.");
@@ -50,52 +56,102 @@ function main(){
  * Makes a copy from the base file and saves it
  * ----------------------------------------------------------------------------
  */
-function makeCopy() {
-    //FIXME GET DOCUMENT PATH FROM THE ROOT AND LANG CODE
-    var filename = 'YearCompass_booklet_en_US.indd';
-    //If you do not provide a file name, InDesign will display the Save dialog box.
-    app.activeDocument.save(new File(filename));
+function makeCopy(langCode) {
+    // Get current timestamp
+    var now         = new Date();
+    var timeStamp   = now.getFullYear() + "-" +
+                      padNumber(now.getMonth() + 1, 2) + "-" +
+                      padNumber(now.getDate(), 2) + "-" +
+                      padNumber(now.getHours(), 2) + "-" +
+                      padNumber(now.getMinutes(), 2);
+    // Get current path and set the new file and folder paths
+    var thisFile    = new File($.fileName);
+    var basePath    = thisFile.path;
+    var folderPath  = basePath + "/../" + langCode;
+    var filePath    = folderPath + "/YearCompass_booklet_" + langCode + "_" + timeStamp + ".indd";
+
+    // Create new folder if not exists
+    var folder = Folder(folderPath);
+    if(!folder.exists) {
+        folder.create();
+    }
+
+    // Save the new document
+    app.activeDocument.save(new File(filePath));
+}
+
+/**
+ * Function: padNumber
+ * ----------------------------------------------------------------------------
+ * Pads a number with trailing characters (e.g. zeros)
+ *   Example usage:
+ *   padNumber(10, 4);      --> 0010
+ *   padNumber(123, 5);     --> 00123
+ *   padNumber(10, 4, '-'); --> --10
+ * ----------------------------------------------------------------------------
+ */
+function padNumber(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
 }
 
 
-function myDisplayDialog(){
-    var myObject;
-    var myDialog = app.dialogs.add({name:"FindChangeByList"});
-    with(myDialog.dialogColumns.add()){
-        with(dialogRows.add()){
-            with(dialogColumns.add()){
-                staticTexts.add({staticLabel:"Search Range:"});
-            }
-            var myRangeButtons = radiobuttonGroups.add();
-            with(myRangeButtons){
-                radiobuttonControls.add({staticLabel:"Document", checkedState:true});
-                radiobuttonControls.add({staticLabel:"Selected Story"});
-                if(app.selection[0].contents != ""){
-                    radiobuttonControls.add({staticLabel:"Selection", checkedState:true});
-                }
-            }           
-        }
-    }
-    var myResult = myDialog.show();
-    if(myResult == true){
-        switch(myRangeButtons.selectedButton){
-            case 0:
-                myObject = app.documents.item(0);
-                break;
-            case 1:
-                myObject = app.selection[0].parentStory;
-                break;
-            case 2:
-                myObject = app.selection[0];
-                break;
-        }
-        myDialog.destroy();
-        myFindChangeByList(myObject);
-    }
-    else{
-        myDialog.destroy();
-    }
+/**
+ * Function: getTranslationFile
+ * ----------------------------------------------------------------------------
+ * Opens a dialog and prompts for the translation file
+ * ----------------------------------------------------------------------------
+ */
+function getTranslationFile(){
+    // Open dialog and get translation file path
+    myFilePath = File.openDialog("Choose the file containing your find/change list");
+    // Return the path and the filename (== language code)
+    return {
+        'filePath': myFilePath,
+        'langCode': myFilePath.fileName(),
+    };
 }
+
+// function myDisplayDialog(){
+//     var myObject;
+//     var myDialog = app.dialogs.add({name:"FindChangeByList"});
+//     with(myDialog.dialogColumns.add()){
+//         with(dialogRows.add()){
+//             with(dialogColumns.add()){
+//                 staticTexts.add({staticLabel:"Search Range:"});
+//             }
+//             var myRangeButtons = radiobuttonGroups.add();
+//             with(myRangeButtons){
+//                 radiobuttonControls.add({staticLabel:"Document", checkedState:true});
+//                 radiobuttonControls.add({staticLabel:"Selected Story"});
+//                 if(app.selection[0].contents != ""){
+//                     radiobuttonControls.add({staticLabel:"Selection", checkedState:true});
+//                 }
+//             }           
+//         }
+//     }
+//     var myResult = myDialog.show();
+//     if(myResult == true){
+//         switch(myRangeButtons.selectedButton){
+//             case 0:
+//                 myObject = app.documents.item(0);
+//                 break;
+//             case 1:
+//                 myObject = app.selection[0].parentStory;
+//                 break;
+//             case 2:
+//                 myObject = app.selection[0];
+//                 break;
+//         }
+//         myDialog.destroy();
+//         myFindChangeByList(myObject);
+//     }
+//     else{
+//         myDialog.destroy();
+//     }
+// }
+
 function myFindChangeByList(myObject){
     var myScriptFileName, myFindChangeFile, myFindChangeFileName, myScriptFile, myResult;
     var myFindChangeArray, myFindPreferences, myChangePreferences, myFindLimit, myStory;
