@@ -1,0 +1,200 @@
+text	{findWhat: "T0001"}	{changeTo: "你的下一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0002"}	{changeTo: "2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0003"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0004"}	{changeTo: "年度計劃冊"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0005"}	{changeTo: "這是什麼?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0006"}	{changeTo: "這本書冊將會幫助你回顧前年並計畫來年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0007"}	{changeTo: "YearCompass will help you look back over the past year and plan the year ahead of you."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0008"}	{changeTo: "這對我有什麼好處?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0009"}	{changeTo: "計畫你未來的一年是個好習慣，它會幫助你看到裡的成功與失敗，並會幫助你了解許多事可以在一年內發生。向過去學習可幫助你在計畫未來時，不再做同樣的事並讓你感到對自我生命的掌握。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0010"}	{changeTo: "我需要什麼?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0011"}	{changeTo: "第一版 (單人版)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0012"}	{changeTo: "at least one hour of uninterrupted time (to plan the year)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0013"}	{changeTo: "at least three hours of uninterrupted time (to look back too)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0014"}	{changeTo: "去年的行事曆"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0015"}	{changeTo: "一份實體的這本手冊"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0016"}	{changeTo: "誠實與開放的心"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0017"}	{changeTo: "一打你喜歡用的筆"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0018"}	{changeTo: "第二版 (團體版)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0019"}	{changeTo: "一群能激發靈感的夥伴 (2-10人)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0020"}	{changeTo: "at least four hours of creative time"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0021"}	{changeTo: "去年的行事曆"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0022"}	{changeTo: "一份實體的這本手冊"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0023"}	{changeTo: "誠實與開放的心"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0024"}	{changeTo: "一打你喜歡用的筆"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0025"}	{changeTo: "做好準備"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0026"}	{changeTo: "到達"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0027"}	{changeTo: "放些放鬆的音樂"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0028"}	{changeTo: "倒點熱飲給自己"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0029"}	{changeTo: "放下你所有的期待"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0030"}	{changeTo: "準備好了就開始"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0031"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0032"}	{changeTo: "翻閱你的行事曆"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0033"}	{changeTo: "檢視你過去一年的行事曆的每一周，如果你看到一個重要的活動、會面、或事項把它寫在這裡。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0034"}	{changeTo: "Go through the past year's calendar week by week. If you see an important event, friendly or family gathering, or a significant task, note it down here."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0035"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0036"}	{changeTo: "這是我去年的大鋼"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0037"}	{changeTo: "*那些方面是在下列事件中最有決定性的?有什麼事件是最重要的?簡單的總結。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0038"}	{changeTo: "家庭、私人生活"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0039"}	{changeTo: "所有物 (家產、物品)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "朋友、社區、服務"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0041"}	{changeTo: "智能"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0042"}	{changeTo: "財務"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0043"}	{changeTo: "工作、學業、事業"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0044"}	{changeTo: "休閒娛樂、嗜好、創新"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0045"}	{changeTo: "健康、健身"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0046"}	{changeTo: "心情、心靈"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0047"}	{changeTo: "**人生目標清單"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0048"}	{changeTo: "那些方面是以你個人定義，我們故意沒有給一個制式解釋。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0049"}	{changeTo: "如果你這年有達成你想完成的人生目標"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0050"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0051"}	{changeTo: "Six sentences about my past year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0052"}	{changeTo: "我所做過最有智慧的決定是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0053"}	{changeTo: "我所學到最大的教訓是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0054"}	{changeTo: "我所承受最大的風險是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0055"}	{changeTo: "我所經歷到最大的驚喜是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0056"}	{changeTo: "我所做最大的服務是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0057"}	{changeTo: "我所達成/完成最大的事情是..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0058"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0059"}	{changeTo: "Six questions about my past year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0060"}	{changeTo: "你最驕傲的是?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0061"}	{changeTo: "誰是影響你最深的三個人?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0062"}	{changeTo: "誰是你影響最深的三個人?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0063"}	{changeTo: "你無法達成些什麼事?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0064"}	{changeTo: "什麼是你發掘關於你自己最棒的事?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0065"}	{changeTo: "有什麼是你感到最感激的?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0066"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0067"}	{changeTo: "最棒的時刻"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0068"}	{changeTo: "敘述那你去年那些最好的、最棒的時刻，把它們畫在這頁上。你當時感覺如何?誰與你同在?你當時在做什麼?你還記得當時周遭的氣味?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0069"}	{changeTo: "Describe the greatest and most memorable, joyful moments from last year. How did you feel? Who was there with you? What were you doing? What kind of smells, sounds or tastes do you remember?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0070"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0071"}	{changeTo: "我所達成的三大事項"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0072"}	{changeTo: "列出你去年達成的三大事項"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0073"}	{changeTo: "你做了什麼才達到目的?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0074"}	{changeTo: "誰幫助你成功的?他做了什麼?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0075"}	{changeTo: "我所面臨到的三大挑戰是"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0076"}	{changeTo: "列出你去年三大挑戰"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0077"}	{changeTo: "誰或什麼幫助你克服那些困難?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0078"}	{changeTo: "在克服這些困難中，你有什麼自我發覺?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0079"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0080"}	{changeTo: "原諒"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0081"}	{changeTo: "有什麼去年發生的事還需要被原諒的?讓你感到不舒服一件事或是一些話?或是你對自己感到生氣?在這裡寫下來。*為了你自己好，原諒吧。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0082"}	{changeTo: "Did anything happen during the past year that still needs to be forgiven? Deeds or words that made you feel bad? Or are you angry with yourself? Note it down here. Do good for yourself and forgive."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0083"}	{changeTo: "如果你還沒有準備好原諒，還是把它寫下來。或許會有幫助。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0084"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0085"}	{changeTo: "放下"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0086"}	{changeTo: "還有什麼需要說的好把去年結束掉?有什麼事情你必須在新的一年開始前放下?畫或寫下來，並在審視後把它們都放下。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0087"}	{changeTo: "Is there anything else you need to say? Is there anything you must let go of before you can start your next year? Think about it and let it all go."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0088"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0089"}	{changeTo: "The past year in three words"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0090"}	{changeTo: "選用三個字來代表你的去年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0091"}	{changeTo: "有關我去年的一本書"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0092"}	{changeTo: "*有一本書寫你的去年，寫下它的書名。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0093"}	{changeTo: "如果我們搞錯了，其實你的是部電影的話，不好意思。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0094"}	{changeTo: "向你的去年道別"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0095"}	{changeTo: "如果還有任何事你想寫下來，或是任何人你想要到別的話，在這邊寫下。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0096"}	{changeTo: "你的去年已結束了"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0097"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0098"}	{changeTo: "You're done with the past year."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0099"}	{changeTo: "You have just finished the first part."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0100"}	{changeTo: "Take a deep breath."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0101"}	{changeTo: "Get some rest."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0102"}	{changeTo: "If you want to tell others about this, take a picture before/after filling out the booklet, and share it."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0103"}	{changeTo: "Feel free to use the hashtag:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0104"}	{changeTo: "#yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0105"}	{changeTo: "過去這一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0106"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0108"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0109"}	{changeTo: "放膽去夢"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0110"}	{changeTo: "這新的一年看起來怎麼樣?最好的狀況會發生什麼事?為什麼會很好?寫、畫，放下你的期待並放膽去夢。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0111"}	{changeTo: "What does the year ahead of you look like? What will happen in an ideal case? Why will it be great? Let go of your expectations and dare to dream."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0112"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0113"}	{changeTo: "我的新的一年將會是關於"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0114"}	{changeTo: "*闡述在新的一年裡將會最有影響的面相。什麼事件將會是最重要的?簡單的總結"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0115"}	{changeTo: "家庭、私人生活"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0116"}	{changeTo: "所有物 (家產、物品)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "朋友、社區、服務"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0118"}	{changeTo: "智能"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0119"}	{changeTo: "財務"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0120"}	{changeTo: "工作、學業、事業"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0121"}	{changeTo: "休閒娛樂、嗜好、創新"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0122"}	{changeTo: "健康、健身"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0123"}	{changeTo: "心情、心靈"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0124"}	{changeTo: "**人生目標清單"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0125"}	{changeTo: "我們還是沒有確切的定義，請自行決定其意義。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0126"}	{changeTo: "這裡將會是你列下想達成的目標"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0127"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0128"}	{changeTo: "我的新的一年將會是關於"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0129"}	{changeTo: "你可以把這頁剪下，貼在牆上或是冰箱上，或是折起來放在你的皮夾裡。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0130"}	{changeTo: "目的是把它放在你可以有時看到的地方，讓你感到高興你完成了那些目標，並繼續完成其他的。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0131"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0132"}	{changeTo: "面對新年的三原則"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0133"}	{changeTo: "我會喜愛自己的這三件事情"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0134"}	{changeTo: "我已準備好放下這三件事"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0135"}	{changeTo: "這三件事我最想達成"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0136"}	{changeTo: "這三個人將會是我在困難時的支柱"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0137"}	{changeTo: "這三件事我會放膽發掘"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0138"}	{changeTo: "這三件事我會堅定地說不"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0139"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0140"}	{changeTo: "面對新年的三原則"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0141"}	{changeTo: "我會做這三件事讓我的周遭更舒適"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0142"}	{changeTo: "這三件事我會每早都做"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0143"}	{changeTo: "這三件事我經常犒賞我自己"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0144"}	{changeTo: "這三個地方我會參訪"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0145"}	{changeTo: "我會用這三個方式連結關愛我的人"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0146"}	{changeTo: "我會用這三的禮物獎賞我的成功"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0147"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0148"}	{changeTo: "Six sentences about my next year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0149"}	{changeTo: "這年我將不會因為...而延遲"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0150"}	{changeTo: "這年我將會從...得到能量"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0151"}	{changeTo: "這年我將會最勇敢當..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0152"}	{changeTo: "這年我會答應當..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0153"}	{changeTo: "我建議我這年要..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0154"}	{changeTo: "這年會對我很特別因為..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0155"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0156"}	{changeTo: "我新年的一個代表字"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0157"}	{changeTo: "選一個新年的代表字，這會給你不放棄夢想的力量，你也可以運用它當你需要額外能量時。這個字將會詮釋這一年。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0158"}	{changeTo: "祕密的願望"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0159"}	{changeTo: "釋放你的心靈，什麼是你新年的秘密希望?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0160"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0161"}	{changeTo: "我相信任何事在這年都是有可能的"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0162"}	{changeTo: "日期:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0163"}	{changeTo: "簽名"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0164"}	{changeTo: "你已結束你的年度計畫了。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0165"}	{changeTo: "兩個小小的提醒:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0166"}	{changeTo: "別忘了撕掉第17頁並把它放在看的到的地方。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0167"}	{changeTo: "如果你有照開始前/結束後的書冊，歡迎用這些標籤:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0168"}	{changeTo: "#yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0169"}	{changeTo: "新的一年"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0170"}	{changeTo: "Made by the volunteers of YearCompass and Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/en"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "If you'd like to give someboby a Year-planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: "我們是匈牙利人，而這書冊是翻譯於我們的原始創作。如果你發現任何錯字、錯誤的文法或是怪異的語法，請留言至以上的網頁。"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0175"}	{changeTo: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0176"}	{changeTo: "We'll remember it for you"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0177"}	{changeTo: "Your answers aren't just a shouting into the void. We keep them for you. But in order to do so, we must remember you as well. Please log in."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0178"}	{changeTo: "Share your achievement"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0179"}	{changeTo: "Help us make YearCompass better."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0180"}	{changeTo: "Please rate the questions you answered"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0181"}	{changeTo: "Anything else you would like to tell us"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0182"}	{changeTo: "Select language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0183"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0184"}	{changeTo: "Translators:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "Martin Su"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0186"}	{changeTo: "English"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0187"}	{changeTo: "人生目標清單"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0188"}	{changeTo: "What aspect was the most important to you in the following areas during last year? Which happenings or events were the most significant? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0189"}	{changeTo: "A book was made about your past year. Write down its title."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0190"}	{changeTo: "Define the most important aspects of next year in the following areas. Which events will be the most important? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0191"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0192"}	{changeTo: "Finish"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0193"}	{changeTo: "Logout"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0194"}	{changeTo: "Next year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0195"}	{changeTo: "Sign in to continue"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0196"}	{changeTo: "Save and exit"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0197"}	{changeTo: "Feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0198"}	{changeTo: "OK"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0200"}	{changeTo: "#plan2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

@@ -192,3 +192,9 @@ text	{findWhat: "T0191"}	{changeTo: "Éviránytű - YearCompass"}	{includeFootno
 text	{findWhat: "T0192"}	{changeTo: "Befejezés"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0193"}	{changeTo: "Kijelentkezés"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0194"}	{changeTo: "Következő év"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0195"}	{changeTo: "A folytatáshoz jelentkezz be"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0196"}	{changeTo: "Mentés és kilépés"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0197"}	{changeTo: "Visszajelzés"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0198"}	{changeTo: "OK"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0200"}	{changeTo: "#plan2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
