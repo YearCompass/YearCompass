@@ -99,8 +99,7 @@ text	{findWhat: "T0098"}	{changeTo: "Gotov/a si sa prošlom godinom."}	{includeF
 text	{findWhat: "T0099"}	{changeTo: "Gotov/a si sa prvim dijelom."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0100"}	{changeTo: "Duboko udahni"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0101"}	{changeTo: "Odmori se."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0102"}	{changeTo: "Ako želiš drugima pričati što si radio/la,
-slikati i podijeliti fotografiju prije/poslije ispunjavanja knjižice."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0102"}	{changeTo: "Ako želiš drugima pričati što si radio/la, slikati i podijeliti fotografiju prije/poslije ispunjavanja knjižice."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0103"}	{changeTo: "Slobodno koristi ove hashtagove:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0104"}	{changeTo: "#yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0105"}	{changeTo: "Prošla godina"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
