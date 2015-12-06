@@ -74,7 +74,7 @@ function makeCopy(langCode) {
     // Get current path and set the new file and folder paths
     var thisFile    = new File($.fileName);
     var basePath    = thisFile.path;
-    var folderPath  = basePath + "/../" + langCode;
+    var folderPath  = basePath + "/../draft/" + langCode;
     var filePath    = folderPath + "/YearCompass_booklet_" + langCode + "_" + timeStamp + ".indd";
 
     // Create new folder if not exists

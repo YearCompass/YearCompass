@@ -37,7 +37,7 @@ text	{findWhat: "T0036"}	{changeTo: "This is what my last year was about"}	{incl
 text	{findWhat: "T0037"}	{changeTo: "What aspects were the most important to you in the following areas last year*? Which happenings or events were the most significant? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0038"}	{changeTo: "personal life and family"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0039"}	{changeTo: "belongings (home, objects)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0040"}	{changeTo: "friends, community, helping others"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "friends, community, service"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0041"}	{changeTo: "intellectual"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0042"}	{changeTo: "finances"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0043"}	{changeTo: "work, studies, profession"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -114,7 +114,7 @@ text	{findWhat: "T0113"}	{changeTo: "This is what my next year will be about"}	{
 text	{findWhat: "T0114"}	{changeTo: "Define the most important aspects of next year in the following areas*. Which events will be the most important? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0115"}	{changeTo: "personal life and family"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0116"}	{changeTo: "belongings (home, objects)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0117"}	{changeTo: "friends, community, helping others"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "friends, community, service"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0118"}	{changeTo: "intellectual"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0119"}	{changeTo: "finances"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0120"}	{changeTo: "work, studies, profession"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

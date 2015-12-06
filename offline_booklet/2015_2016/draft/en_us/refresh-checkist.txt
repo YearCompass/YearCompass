@@ -1,0 +1,10 @@
+=== Cover ===
+  * Break title into 3 lines
+=== Page #2 ===
+  * What do I need? small i
+  * st and nd to superscript
+=== Page #23 ===
+  * I beleive... > small i
+  * Break lines in the # text box
+=== Back ===
+  * Translators character error
