@@ -13,3 +13,4 @@ changes the texts in the base file and saves the new booklet.
 
 === YCExportToPDF.jsx ===
 This InDesign script exports the active document to pdf
+@requires: YCPDFA4Preset.joboptions PDF template to be installed
