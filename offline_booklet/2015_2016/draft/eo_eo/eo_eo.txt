@@ -169,7 +169,7 @@ text	{findWhat: "T0168"}	{changeTo: "#jarkompaso #yearcompass "}	{includeFootnot
 text	{findWhat: "T0169"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0170"}	{changeTo: "Farite de la volontuloj de la YearCompass kaj de la Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/eo"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0172"}	{changeTo: "Se vi deziras donaci la JarKompason al iu (aŭ vi subtenas nian celon) klaku al la ligilo: "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "If you'd like to give somebody a Year planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0174"}	{changeTo: "Ni estas denaske hungaroj kaj tiu ĉi libreto estas traduko de nia originala laboro. Se vi rimarkas ajnan mistajpon, fuŝojn pri la gramatiko aŭ neekzistantajn esprimojn tiam ni petas vin skribi tion al ni tra la retpaĝo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "Ĉi tiu verko estas disponebla laŭ la permesilo de la Creative Commons Atribuite-Nekomerce-Samkondiĉe 4.0 Tutmonda."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -192,8 +192,8 @@ text	{findWhat: "T0191"}	{changeTo: "JarKompaso en via propra lingvo - JarKompas
 text	{findWhat: "T0192"}	{changeTo: "Finu"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0193"}	{changeTo: "Elsalutu"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0194"}	{changeTo: "La sekva(n) jaro(n)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0195"}	{changeTo: "Sign in to continue"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0196"}	{changeTo: "Save and exit"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0195"}	{changeTo: "Ensalutu por daŭrigi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0196"}	{changeTo: "Konservu kaj elsalutu"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0197"}	{changeTo: "Feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0198"}	{changeTo: "OK"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

@@ -169,7 +169,7 @@ text	{findWhat: "T0168"}	{changeTo: "#kompassroku #yearcompass "}	{includeFootno
 text	{findWhat: "T0169"}	{changeTo: "Rok máš pred sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0170"}	{changeTo: "Bolo vyrobené spolupracovníkmi YearCompass a dobrovoľníkmi z Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/sk"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0172"}	{changeTo: "If you'd like to give somebody a Year-planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "If you'd like to give somebody a Year planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0174"}	{changeTo: "Tento plánovač vznikol prekladom z maďarského originálu. Pokiaľ objavíš chyby, preklepy alebo neexistujúce výrazy, napíš nám cez stránku vyššie."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "Obsah je chránený licenciou Creative Commons Uveďte autora-Nekomerčných-Zachovajte licenciu 4.0 Medzištátne."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
