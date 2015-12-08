@@ -1,9 +1,4 @@
 === Cover ===
   * Break title into 3 lines
-=== Page #2 ===
-  * (a következő év megtervezéséhez) > break and indent
-  * (a visszatekintéshez) > break and indent
-=== Page #23 ===
-  * Break lines in the # text box
 === Back ===
   * Break line @ (és ezzel támogatni az ügyünket)
