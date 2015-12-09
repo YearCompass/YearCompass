@@ -1,0 +1,5 @@
+=== Cover ===
+  * Break title into 3 lines
+=== Back ===
+  * Break line @ (és ezzel támogatni az ügyünket)
+  * Break line CC license
