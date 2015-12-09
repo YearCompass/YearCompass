@@ -1,8 +1,7 @@
-=== Cover ===
-  * Break title into 3 lines
 === Page #2 ===
   * What do I need? small i
   * st and nd to superscript
 === Back ===
   * Translators character error
   * Break shop description line
+  * Break CC license line
