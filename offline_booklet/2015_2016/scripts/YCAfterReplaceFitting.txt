@@ -32,6 +32,17 @@ page 5, 15
     }
   }
 
+  if (box description is more than 1 line) {
+    for each (column) {
+      ungroup
+      select all boxes, decrease height
+
+      select all columns, set vertical space distribution to 3mm
+    }
+    //footnote last baseline should be on the orange guide
+  }
+
+
 page 6, 7, 9, 16, 17, 18
   if (label would wrap) {
     select all labels
