@@ -37,7 +37,7 @@ text	{findWhat: "T0036"}	{changeTo: "Erről szólt az előző évem"}	{includeFo
 text	{findWhat: "T0037"}	{changeTo: "Mi volt számodra meghatározó az elmúlt évben az alábbi területeken*? Mely történések voltak a legfontosabbak? Foglald össze néhány szóban."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0038"}	{changeTo: "család, magánélet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0039"}	{changeTo: "körülmények (lakás, tárgyak)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0040"}	{changeTo: "barátok, közösség, szolgálat"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "barátok, közösség"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0041"}	{changeTo: "mentális, szellemi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0042"}	{changeTo: "pénzügyi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0043"}	{changeTo: "munka, egyetem, hivatás"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -114,14 +114,14 @@ text	{findWhat: "T0113"}	{changeTo: "Erről szól a következő évem"}	{include
 text	{findWhat: "T0114"}	{changeTo: "Mi legyen számodra meghatározó az előtted álló évben az alábbi területeken*? Mely történések lesznek a legfontosabbak? Foglald össze néhány szóban."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0115"}	{changeTo: "család, magánélet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0116"}	{changeTo: "körülmények (lakás, tárgyak)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0117"}	{changeTo: "barátok, közösség, szolgálat"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "barátok, közösség"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0118"}	{changeTo: "mentális, szellemi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0119"}	{changeTo: "pénzügyi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0120"}	{changeTo: "munka, egyetem, hivatás"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0121"}	{changeTo: "pihenés, kikapcsolódás, alkotás"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0122"}	{changeTo: "fizikai, testi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0123"}	{changeTo: "érzelmi, spirituális"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0124"}	{changeTo: "bakancslista **"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0124"}	{changeTo: "bakancslista"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0125"}	{changeTo: "Továbbra sincsenek egzakt definícióink, értsd úgy, ahogy értened kell."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0126"}	{changeTo: "Ide kerülnek azok a dolgok, amelyeket egyszer szeretnél megvalósítani."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0127"}	{changeTo: "Előtted az év"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -176,7 +176,7 @@ text	{findWhat: "T0175"}	{changeTo: "A tartalomra a Creative Commons Nevezd meg!
 text	{findWhat: "T0176"}	{changeTo: "Megjegyezzük helyetted"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0177"}	{changeTo: "A válaszaid nem vesznek kárba, megőrizzük neked. Ehhez viszont emlékeznünk kell Rád is, ezért kérjük jelentkezz be."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0178"}	{changeTo: "Oszd meg"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0179"}	{changeTo: "Segíts jobbá tenni az Éviránytűt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0179"}	{changeTo: "Segíts jobbá tenni az Éviránytűt."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0180"}	{changeTo: "Kérjük értékeld a megválaszolt kérdéseket"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0181"}	{changeTo: "Bármi, amit még szeretnél nekünk üzenni"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0182"}	{changeTo: "Válassz nyelvet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -200,3 +200,14 @@ text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includ
 text	{findWhat: "T0200"}	{changeTo: "#plan2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0201"}	{changeTo: "a visszajelzésed elmentettük"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0202"}	{changeTo: "Hozzájárulok, hogy robotok névtelenül elemezzék a válaszaimat."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0203"}	{changeTo: "2015 mögöttem, 2016 előttem. Épp most fejeztem be az évrendezést az #éviránytű oldalán, próbáljátok ki Ti is."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0204"}	{changeTo: "2015 mögöttem, 2016 előttem. Épp most fejeztem be az évrendezést az #éviránytű oldalán, próbáljátok ki Te is: http://buff.ly/1YXg434"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0205"}	{changeTo: "Ha egy egyszerű és szép helyet keresel, hogy lezárhasd az éved, ez az. #éviránytű"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0206"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0207"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0208"}	{changeTo: "Egy nagyszerű eszköz arra, hogy lezárd a mögötted álló évet és megtervezd a következőt. Ha szeretnél tisztába jönni önmagaddal és felkészülni a következő évre, érdemes kipróbálnod az ÉvIránytű oldalát. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0209"}	{changeTo: "Helló! Van ez az oldal: online.yearcompass.com. Segít lezárni 2015-öt és megtervezni 2016-ot. Próbáld ki, menő!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0211"}	{changeTo: "Fordítsd le a saját nyelvedre"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0212"}	{changeTo: "vagy"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0213"}	{changeTo: "küldj visszajelzést"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0214"}	{changeTo: "Vigyél a YearCompass.com oldalra"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
